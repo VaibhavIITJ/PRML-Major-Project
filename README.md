@@ -3,9 +3,9 @@ Accidents on road are a major cause of death and injury worldwide. Accidents can
 In this project, different machine learning models are used to predict accident severity and location from a dataset that covers 49 states of USA.
 
 Different ML concepts that are used in this project are:
-•   Decision Tree Classifier
-•   Random Forest Classifier
-•   Boosting - Ada Boost and XG Boost
-•   Linear Regression
-•   SVM (Support Vector Machine)
-•   KNN (K-Nearest Neighbour)
+<br>•   Decision Tree Classifier
+<br>•   Random Forest Classifier
+<br>•   Boosting - Ada Boost and XG Boost
+<br>•   Linear Regression
+<br>•   SVM (Support Vector Machine)
+<br>•   KNN (K-Nearest Neighbour)
